@@ -2,6 +2,8 @@
 
 This week I studied the suggested LinkedIn learning content, Migrating WordPress with WP Migrate DB and DB pro.
 
+https://www.linkedin.com/learning/migrating-wordpress-with-wp-migrate-db-and-db-pro
+
 <h2>Estimated Hours</h2>
 
 1.2 hours
