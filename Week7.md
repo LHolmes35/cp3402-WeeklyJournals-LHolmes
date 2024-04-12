@@ -1,6 +1,8 @@
 <h2>Learning Activities and Resources</h2>
 
-This week I studied the suggested LinkedIn learning content, 
+This week I studied the suggested LinkedIn learning content, Introducing PHP.
+
+https://www.linkedin.com/learning/learning-php-2
 
 <h2>Estimated Hours</h2>
 
